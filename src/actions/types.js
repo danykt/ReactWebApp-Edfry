@@ -1,0 +1,16 @@
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+export const LOGGED_FAILED = 'LOGGED_FAILED';
+export const REGISTER = 'REGISTER';
+export const REGISTER_FAILED = "REGISTER_FAILED";
+export const ACCESS = "ACCESS";
+export const UNACCESS = "UNACCESS";
+export const FETCH_USER = "FETCH_USER";
+export const LOADING = "LOADING";
+export const TERMINATE = "TERMINATE";
+export const FETCH_USER_ADRESSES = "FETCH_USER_ADRESSES";
+export const SELECT_ADRESS = "SELECT_ADRESS";
+export const SAVE_ADRESS = "SAVE_ADRESS";
+export const FETCHING = "FETCHING";
+export const DONE = "DONE";
+export const DELETE_ADRESS = "DELETE_ADRESS";
